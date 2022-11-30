@@ -1,4 +1,5 @@
-# Smart-App-for-Cities-and-Housing-Societys
+# Smart-App-for-Cities-and-Housing-Societys<br>
+[<img alt="City App" width="40px" src="images/image.PNG" />](https://photos.google.com/photo/AF1QipOYIcqmhFH28wtLb-tjEcs-IL4QVnipDydLV45d)
 An App that will bring together all city services: immediate information with tourist interest, which promotes the commercial sector and generate value to citizens. e.g <br>
 *Smart Parking <br>
 *Smart Utilities <br>
