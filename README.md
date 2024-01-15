@@ -1,6 +1,3 @@
-# Smart-App-for-Cities-and-Housing-Societys<br>
-[<img alt="City App" width="1000px" src="The-app-of-Smart-Cities-min.png" />](https://photos.google.com/photo/AF1QipOYIcqmhFH28wtLb-tjEcs-IL4QVnipDydLV45d)
-
 ## SmartApp for Cities and Housing Societys - A Community Connect for you!
 
 ### Description
@@ -68,28 +65,3 @@ So, it will provide you a better experience of living in a community.
     - Control smart devices of your home.
 
 2. Create a Web application.
-
-# App Overview #
-
-An App that will bring together all city services: immediate information with tourist interest, which promotes the commercial sector and generate value to citizens. e.g <br>
-*Smart Parking <br>
-*Smart Utilities <br>
-*Smart Metering <br>
-*IoT <br>
-*Visitors Management System <br> 
-*News <br>
-*Places/Service listing in the city <br>
-*Tour Guide <br>
-*User Profile management <br>
-*Chat within citizens<br>
-*Notices, Complaints<br>
-*Voting system within citizens<br>
-*Social Media<br>
-*Emergency alert system<br>
-*Weather prediction<br>
-*City traffic condition<br>
-*Service booking eg. cab within city, doctor booking, handy man booking with Realtime enabled and so on<br>
-*Transportation info<br>
-*housing society features <br>
-etc. <br>
-The aim of this project is to encourage cities and housing societies such as estates to go smart i.e everything can be at the palm of our hands, the project will be a mobile app using a web app as its backend, etc
