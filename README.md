@@ -25,18 +25,17 @@ So, it will provide you a better experience of living in a community.
 
 <table>
      <tr>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Login_Screen.png" /><br /><center><b>Login Screen</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Dashboard_Screen.gif" /><br /><center><b>DashBoard</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Memberships_Screen.png" /><br /><center><b>Memberships Screen</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Events_Screen.png" /><br /><center><b>Events Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Login_Screen.png" /><br /><center><b>Login Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Dashboard_Screen.gif" /><br /><center><b>DashBoard</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Memberships_Screen.png" /><br /><center><b>Memberships Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Events_Screen.png" /><br /><center><b>Events Screen</b></center></td>
      </tr>
      <tr>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/My_Societies_Screen.png" /><br /><center><b>My Society Screen</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Complaints.png" /><br /><center><b>Complaints Screen</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Visitors_Screen.gif" /><br /><center><b>Visitors Screen</b></center></td>
-          <td><img height="250" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/HelpDesk_Screen.png" /><br /><center><b>Help Desk Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/My_Societies_Screen.png" /><br /><center><b>My Society Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Complaints.png" /><br /><center><b>Complaints Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/Visitors_Screen.gif" /><br /><center><b>Visitors Screen</b></center></td>
+          <td><img height="270" src="https://github.com/afenuvon/Smart-App-for-Cities-and-Housing-Societys/blob/main/images/HelpDesk_Screen.png" /><br /><center><b>Help Desk Screen</b></center></td>
      </tr>
-
 </table>
 
 ### Building the Code
